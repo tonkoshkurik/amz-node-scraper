@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "amazon-product-api": "^0.3.10",
     "cheerio": "^0.20.0",
     "cheerio-req": "^1.0.1",
     "request": "^2.72.0",
