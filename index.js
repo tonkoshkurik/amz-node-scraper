@@ -19,12 +19,6 @@ var sheet;
 //     console.log(data);
 // });
 
-var client = amazon.createClient({
-  awsId: "AKIAIYY7J4DNDU3SXE6Q",
-  awsSecret: "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",
-  awsTag: "activelifes01-20"
-});
-
 // client.itemLookup({
 //   idType: 'ASIN',
 //   itemId: 'B00NXO1U18'
