@@ -9,15 +9,6 @@ var doc = new GoogleSpreadsheet('1jhQ_2gULNnl6lLX01dGfXfcaGr-tyoZylDThW04E6co');
 var amazon = require('amazon-product-api');
 var sheet;
 
-// var allObj = [];
-// var AWSAccessKeyId=AKIAIYY7J4DNDU3SXE6Q,
-// AWSSecretKey=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;
-
-// var scraper = require('product-scraper');
-
-// scraper.init('http://www.amazon.com/gp/product/B00X4WHP5E/', function(data){
-//     console.log(data);
-// });
 
 // client.itemLookup({
 //   idType: 'ASIN',
